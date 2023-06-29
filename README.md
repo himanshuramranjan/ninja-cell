@@ -58,7 +58,7 @@ npm install
 5. Start the application:
 
 ```bash
-npm start
+node server.js
 ```
 
 ## Usage
