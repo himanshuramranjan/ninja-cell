@@ -1,6 +1,6 @@
 const express = require("express");
 const passport = require("passport");
-const dashBoardController = require("../controllers/dashBoardController");
+const dashBoardController = require("../controllers/dashboardController");
 const reportController = require("../controllers/reportController");
 
 // requiring files
